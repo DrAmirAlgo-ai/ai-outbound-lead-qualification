@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.csv
+llm_state.json
+settings.json
+winning_examples.json
+.venv/
+__pycache__/
+*.pyc
+*.log
+.streamlit/
+PDF/
+site/
+website/
