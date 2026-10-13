@@ -43,3 +43,8 @@ Copy `.env.example` to `.env` and set `GEMINI_API_KEY` (if using Gemini) and you
 ## Privacy
 
 This repository contains code only. No real lead data, databases, API keys or credentials are included. The database is created locally on first run.
+
+## Screenshot
+
+![AI Outbound dashboard](docs/images/ai-outbound-dashboard.png)
+
